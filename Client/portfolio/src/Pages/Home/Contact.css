@@ -1,0 +1,7 @@
+.each-div{
+    transition: all ease-in-out 0.1s;
+}
+
+.each-div:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
